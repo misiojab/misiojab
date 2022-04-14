@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋, I'm Misiojab</h1>
 <h3 align="center">Front developer and designer</h3>
 
-- 🔭 I’m currently working on **Sitra**
+- 🔭 I’m currently working on **Sitra**, web based JSP application to manage IT projects
 
 - 🌱 I’m currently learning **JSP, Spring**
 
-- 👯 I’m looking to collaborate on **Sitra**
-
 - 🤝 I’m looking for help with **Mjound**
-
-- 👨‍💻 All of my projects are available at [<tbd>](<tbd>)
-
-- 📝 I regularly write articles on [<tbd>](<tbd>)
 
 - 📫 How to reach me **misiojab@gmail.com**
 
