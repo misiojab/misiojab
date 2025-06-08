@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Misiojab</h1>
 <h3 align="center">Front developer and designer</h3>
 
-- 🔭 I’m currently working on **Sitra**, web based JSP application to manage IT projects
-
-- 🌱 I’m currently learning **JSP, Spring**
-
-- 🤝 I’m looking for help with **Mjound**
-
 - 📫 How to reach me **misiojab@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
